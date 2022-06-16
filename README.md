@@ -3,6 +3,6 @@
 
 ## Start
 
-  ### npm -i
+  ### npm - i
   
   ### npm start 
